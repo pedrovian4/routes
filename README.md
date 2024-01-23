@@ -6,7 +6,7 @@ The route package provides a simple and flexible way to handle routing in Go web
 To install the package, use the following go get command:
 
 ```bash
-go get github.com/yourusername/route
+go get https://github.com/pedrovian4/routes
 ```
 
 ## Usage
